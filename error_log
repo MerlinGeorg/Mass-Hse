@@ -1,0 +1,5 @@
+[03-Apr-2020 02:23:08 America/Boise] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home3/masshsec/public_html/course.php on line 64
+[03-Apr-2020 02:23:14 America/Boise] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home3/masshsec/public_html/course.php on line 64
+[03-Apr-2020 03:31:05 America/Boise] PHP Parse error:  syntax error, unexpected '}' in /home3/masshsec/public_html/course.php on line 185
+[03-Apr-2020 03:31:08 America/Boise] PHP Parse error:  syntax error, unexpected '}' in /home3/masshsec/public_html/course.php on line 185
+[03-Apr-2020 03:31:13 America/Boise] PHP Parse error:  syntax error, unexpected '}' in /home3/masshsec/public_html/course.php on line 185
